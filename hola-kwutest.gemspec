@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name               = "hola"
+  s.name               = "hola-kwutest"
   s.version            = "0.0.1"
   s.default_executable = "hola"
 
